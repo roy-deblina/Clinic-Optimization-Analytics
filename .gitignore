@@ -1,0 +1,5 @@
+# Ignore python cache and temp files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
