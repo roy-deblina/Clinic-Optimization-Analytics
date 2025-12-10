@@ -1,5 +1,5 @@
 # Clinic Optimization and Workflow Simulation
-**Northwestern MSDS 460 — Decision Analytics | Final Project**
+** Decision Analytics | Final Project**
 
 ##  Project Overview
 This project implements a multi-stage optimization and simulation model for a Tokyo dermatology clinic. The goal was to improve patient-flow efficiency, resource utilization, and overall operational cost.
